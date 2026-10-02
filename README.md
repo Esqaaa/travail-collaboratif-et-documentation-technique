@@ -1,1 +1,3 @@
 # travail-collaboratif-et-documentation-technique
+
+Ce projet nous sert d'exemple afin de savoir ouvrir une issue, faire un pull-request, faire une branch...
